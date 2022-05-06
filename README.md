@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @dongseoki
-- 👀 I’m interested in pytho
+- 👀 I’m interested in python
 - 🌱 I’m currently learning Django web framework
 - 📫 How to reach me ...
 
