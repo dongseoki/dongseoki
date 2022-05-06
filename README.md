@@ -1,3 +1,6 @@
+  [![Dongseoki's github stats](https://github-readme-stats.vercel.app/api?username=dongseoki)](https://github.com/dongseoki)
+
+
 - 👋 Hi, I’m @dongseoki
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
