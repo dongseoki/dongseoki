@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @dongseoki
-- 👀 I’m interested in python, java
+- 👀 I’m now interested in java
 - 🌱 I’m looking forward to get a server developer position
 - 📫 How to reach me ...
 
